@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have successfully completed my training as a software developer and have 1.5 years of professional experience. I spent 12 months in pure back-end development, where I learned a lot about high-performance Oracle databases and actively programmed them. Afterwards, I became a full-stack developer. In this role, I was able to apply my knowledge from the back-end and learn the front-end.<br><br>Currently, I am enrolled in a boot camp for full-stack developers to refresh, deepen, and solidify my knowledge.
+Connect for collaborations!
 
 
 ## 🌐 Socials:
